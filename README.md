@@ -13,4 +13,4 @@ Nesse projeto, foi desenvolvido um modelo de **Machine Learning** utilizando a t
 #### **Observações:**
 
 *   Os datasets foram retirados da plataforma Kaggle e está disponível no seguinte link: [HousePricing]([https://www.kaggle.com/datasets/greenwing1985/housepricing](https://www.kaggle.com/datasets/greenwing1985/housepricing))
-*   O arquivo Regressao_Linear.ipynb apresenta o notebook com as análises realizadas. Disponível também no link https://github.com/mfaysoares/Consumo_Cerveja_SP/blob/main/Regress%C3%A3o_Linear.ipynb
+*   O arquivo Regressao_Linear.ipynb apresenta o notebook com as análises realizadas. Disponível também no link https://github.com/mfaysoares/Preco_Imoveis/blob/main/Regressao_Linear.ipynb
