@@ -1,6 +1,6 @@
 # Modelo de Machine Learning para Prever o Preço de Imóveis
 
-![alt text](https://github.com/mfaysoares/Consumo_Cerveja_SP/blob/main/cover.png)
+![alt text](https://github.com/mfaysoares/Preco_Imoveis/blob/main/cover.png)
 
 Nesse projeto, foi desenvolvido um modelo de **Machine Learning** utilizando a técnica de **Regressão Linear** visando prever o preço de imóveis com base nas seguintes características:
 - Área do imóvel;
