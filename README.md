@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/mfaysoares/Preco_Imoveis/blob/main/cover.png)
 
+## **Projeto:**
+
 Nesse projeto, foi desenvolvido um modelo de **Machine Learning** utilizando a técnica de **Regressão Linear** visando prever o preço de imóveis com base nas seguintes características:
 - Área do imóvel;
 - Número de vagas de garagem;
